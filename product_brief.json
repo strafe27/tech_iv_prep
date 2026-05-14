@@ -1,0 +1,34 @@
+{
+  "product_brief": {
+    "product": "Deriv Bot",
+    "description": "A no-code automated trading bot builder with drag-and-drop strategy creation, historical backtesting, and 24/7 execution",
+    "markets": ["Forex", "Synthetic Indices", "Cryptocurrencies"],
+    "primary_audience": {
+      "persona": "Retail Trader — Automation Curious",
+      "traits": [
+        "No programming background",
+        "Has been trading manually for 6–18 months",
+        "Feels overwhelmed by manual monitoring",
+        "Skeptical of automation — worried about losing control"
+      ]
+    },
+    "secondary_audience": {
+      "persona": "Experienced Trader — Time Poor",
+      "traits": [
+        "Has tested multiple strategies",
+        "Wants to scale without hiring",
+        "Evaluates tools on reliability and customisability"
+      ]
+    },
+    "tone": "Approachable, empowering, not overly technical",
+    "control_headline": "Automate your trading. No coding needed.",
+    "control_cta": "Start building for free",
+    "control_subheadline": "Build, test, and run automated trading strategies — without writing a single line of code.",
+    "compliance_constraints": [
+      "Must not imply guaranteed returns or risk-free trading",
+      "Must not claim superiority over competitors without substantiation",
+      "Must not use urgency language that could be construed as pressure selling",
+      "Must include or imply that trading involves risk if making performance claims"
+    ]
+  }
+}
